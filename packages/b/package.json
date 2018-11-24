@@ -1,15 +1,14 @@
 {
-  "name": "app",
+  "name": "b",
   "version": "1.0.0",
-  "description": "Main app",
+  "description": "B package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "LD",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "a": "file:../a",
-    "b": "file:../b"
+    "funnies": "^2.0.0"
   }
 }
