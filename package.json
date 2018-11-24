@@ -1,0 +1,11 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "Monorepo with lerna and yarn",
+  "main": "packages/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LD",
+  "license": "ISC"
+}
